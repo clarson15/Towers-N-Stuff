@@ -4,6 +4,7 @@
 #include <fstream>
 #include "Tile.h"
 #include "Level.h"
+#include "Enemy.h"
 
 using namespace std;
 
